@@ -1,0 +1,39 @@
+{
+    "usuarios": [
+        {
+            "id": "00aac5",
+            "correo": "gregory.silva@example.com",
+            "nombre": "Mr Gregory Silva",
+            "foto": "https://randomuser.me/api/portraits/men/85.jpg",
+            "pais": "United Kingdom"
+        },
+        {
+            "id": "76446d",
+            "correo": "omur.koc@example.com",
+            "nombre": "Mrs Ömür Koç",
+            "foto": "https://randomuser.me/api/portraits/women/80.jpg",
+            "pais": "Turkey"
+        },
+        {
+            "id": "535234",
+            "correo": "martinha.oliveira@example.com",
+            "nombre": "Miss Martinha Oliveira",
+            "foto": "https://randomuser.me/api/portraits/women/3.jpg",
+            "pais": "Brazil"
+        },
+        {
+            "id": "e14379",
+            "correo": "gerardo.trevino@example.com",
+            "nombre": "Mr Gerardo Treviño",
+            "foto": "https://randomuser.me/api/portraits/men/60.jpg",
+            "pais": "Mexico"
+        },
+        {
+            "id": "90960e",
+            "correo": "alberto.aguilar@example.com",
+            "nombre": "Mr Alberto Aguilar",
+            "foto": "https://randomuser.me/api/portraits/men/92.jpg",
+            "pais": "Spain"
+        }
+    ]
+}
